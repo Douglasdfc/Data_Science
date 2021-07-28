@@ -12,8 +12,9 @@ Como um analista de dados experiente, eu combino habilidades analíticas, capaci
 Minhas credenciais incluem Especialização em Ciência de Dados e Graduação em Administração de Empresas, tendo essa última confiado-me grande visão de negócio, habilidade essencial para análise de dados focada nos problemas reais das organizações.
 
 **Background in:** Python, Pentaho Data Integration, Linguagem SQL e Power BI.
-**Links:**
 
+
+**Links:**
 * [LinkedIn](https://www.linkedin.com/in/douglas-castro-87886255/)
 
 
